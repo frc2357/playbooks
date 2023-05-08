@@ -46,7 +46,7 @@ to hand out letters to the students and plaques to our sponsors (if attending).
 
 ## Plaque Example
 
-![Plaque Example](Premier Sponsor Plaque.jpg)
+<img src="Premier_Sponsor_Plaque.jpg">
 
 ## Communications
 ### Email to Parents
