@@ -8,15 +8,16 @@ to hand out letters to the students and plaques to our sponsors (if attending).
 1. Schedule a date after the last competition, but before school ends for the year
 2. Ensure space is reserved in school system
 3. Coordinate meal plans (ensure mentor and parent involvement/preparation)
-4. Construct and send out email announcement to parent email list (see below for template)
-5. Construct and send out an email announcement to all sponsors individually (no group emails for this)
-6. Construct and send out an email announcement to School Board, Superintendent, Assistant Superintendents, and Activities Director
-7. (optional) prepare slideshow/video reel for event
-8. Collect letters/pins for each student who earned them and print list
-9. Collect year's FRC pins to hand out
-10. Collect senior recognition items to hand out
-11. Prepare shout-outs for students, mentors, and parents as appropriate
-12. Designate at least 2 students to give VIPs/sponsors a tour upon arrival
+4. Order plauqes for top 5 Sponsors (see below for plaque example)
+5. Construct and send out email announcement to parent email list (see below for template)
+6. Construct and send out an email announcement to all sponsors individually (no group emails for this)
+7. Construct and send out an email announcement to School Board, Superintendent, Assistant Superintendents, and Activities Director
+8. (optional) prepare slideshow/video reel for event
+9. Collect letters/pins for each student who earned them and print list
+10. Collect year's FRC pins to hand out
+11. Collect senior recognition items to hand out
+12. Prepare shout-outs for students, mentors, and parents as appropriate
+13. Designate at least 2 students to give VIPs/sponsors a tour upon arrival
 
 ## Day of Event
 
@@ -42,6 +43,10 @@ to hand out letters to the students and plaques to our sponsors (if attending).
 10. Sponsor recognition (use written-down list from item 7 above), presentation of plaques
 11. Conclusion, thank you
 12. Remainder of time is open
+
+## Plaque Example
+
+![Plaque Example](Premier Sponsor Plaque.jpg)
 
 ## Communications
 ### Email to Parents
