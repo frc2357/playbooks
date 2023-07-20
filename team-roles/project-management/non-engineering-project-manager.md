@@ -25,3 +25,4 @@ for the robot build and associated engineering efforts.
  - Track team budget, accounting, and purchasing
  - Track public relations schedule (social media, website, Open Alliance)
  - Track media and marketing schedule (photography, videography, t-shirt design, buttons, professional image)
+ - Manage t-shirt order form, purchasing, funds collection, and distribution
