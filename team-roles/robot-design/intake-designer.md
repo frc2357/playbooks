@@ -7,6 +7,7 @@ Intakes should be fast, quickly deployed and retracted back into the frame perim
 
 | Schedule Phase     | Effort   |
 |--------------------|----------|
+| Prototyping        | High     |
 | Initial Design     | High     |
 | Support/Follow Up  | Mid      |
 
