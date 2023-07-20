@@ -17,6 +17,8 @@ Intakes should be fast, quickly deployed and retracted back into the frame perim
 
 ## Responsibilities
  - Drive prototyping efforts from beginning to end
+ - Provide motor and gearing calculations for drive mechanisms
+ - Provide pressure and force calculations for pneumatic devices
  - Create geometry sketches to ensure proper critical dimensions
  - Iterate prototype from crude, hand created, to 1:1 scale wood, to using robot materials
  - Work closely with CAD Engineer and remain involved throughout CAD process with frequent check-ins
