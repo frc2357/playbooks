@@ -7,6 +7,7 @@ Climbing should reliable and quick.
 
 | Schedule Phase     | Effort   |
 |--------------------|----------|
+| Prototyping        | Low      |
 | Initial Design     | High     |
 | Support/Follow Up  | Mid      |
 
