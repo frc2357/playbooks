@@ -7,7 +7,7 @@ If the field has any special terrain concerns, the drive base must accommodate f
 
 | Schedule Phase     | Effort   |
 |--------------------|----------|
-| Initial Desig      | Low/Mid  |
+| Initial Design     | Low/Mid  |
 | Support/Follow Up  | Low      |
 
 ## Qualities
