@@ -17,6 +17,7 @@ Variables to consider are compression, speed, angle, and back/front spin
 
 ## Responsibilities
  - Drive prototyping efforts from beginning to end
+ - Ensure the variables are well dialed in and we have high consistency and accuracy
  - Create geometry sketches to ensure proper critical dimensions
  - Iterate prototype from crude, hand created, to using robot materials
  - Work closely with CAD Engineer and remain involved throughout CAD process with frequent check-ins
