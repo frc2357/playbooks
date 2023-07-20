@@ -17,6 +17,8 @@ Climbing should reliable and quick.
 
 ## Responsibilities
  - Drive prototyping efforts from beginning to end
+ - Provide motor and gearing calculations for drive mechanisms
+ - Provide pressure and force calculations for pneumatic devices
  - Create geometry sketches to ensure proper critical dimensions
  - Iterate prototype from crude, hand created, to using robot materials
  - Work closely with CAD Engineer and remain involved throughout CAD process with frequent check-ins
