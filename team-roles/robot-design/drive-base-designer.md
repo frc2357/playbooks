@@ -16,6 +16,7 @@ If the field has any special terrain concerns, the drive base must accommodate f
 
 ## Responsibilities
  - Drive prototyping efforts from beginning to end
+ - Provide motor and gearing calculations for drive mechanisms
  - If terrain of some kind is present, design for handling of terrain with minimal effects to speed or stability
  - Verify floor clearance
  - Verify bumper height and mounting
