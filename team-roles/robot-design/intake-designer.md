@@ -7,8 +7,8 @@ Intakes should be fast, quickly deployed and retracted back into the frame perim
 
 | Schedule Phase     | Effort   |
 |--------------------|----------|
-| Initial Desig      | Low/Mid  |
-| Support/Follow Up  | Low      |
+| Initial Design     | High     |
+| Support/Follow Up  | Mid      |
 
 ## Qualities
  - Technical knowledge of robot design
