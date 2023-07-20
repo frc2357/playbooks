@@ -6,9 +6,7 @@ Each year, we design a t-shirt specific to that year's FRC game. When designing 
 
 | Schedule Phase     | Effort   |
 |--------------------|----------|
-| Pre-Kickoff        | Low      |
 | Build Season       | Low      |
-| Competition Season | Low      |
 
 ## Qualities
  - Eye for visual design and layout
