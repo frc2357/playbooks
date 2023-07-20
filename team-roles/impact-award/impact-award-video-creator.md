@@ -12,7 +12,7 @@ impact on our community and beyond.
 
 ## Qualities
  - Eye for visual design
- - Video editing uite skills
+ - Video editing suite skills
 
 ## Responsibilities
  - Coordinating with Impact Award Editor on vision for end product
