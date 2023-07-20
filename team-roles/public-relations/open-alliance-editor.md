@@ -14,7 +14,7 @@ gather information and pictures from the team to write about several topics duri
 
 ## Qualities
  - Good writing and grammar
- - Able to editing of action videos to gifs
+ - Able to edit action videos to gifs
  - Ability to interview individuals on the team and take notes
 
 ## Responsibilities
