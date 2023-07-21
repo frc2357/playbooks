@@ -69,7 +69,7 @@ The list below is categorized and each role has a section that denotes how many 
 ### CNC
  - CNC Router Setup Technician (3)
  - CNC Router Operator (4)
- - CNC Custom Fixture Designer (1)
+ - CNC Custom Fixture Designer (2)
 
 ### 3D Printing
  - 3D Printer Operator (3)
